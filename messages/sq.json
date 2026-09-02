@@ -1,0 +1,352 @@
+{
+  "nav": {
+    "home": "Ballina",
+    "ourApproach": "Qasja jonë",
+    "ourServices": "Shërbimet tona",
+    "testimonials": "Dëshmitë",
+    "blog": "Blog",
+    "meetTeam": "Ekipi ynë",
+    "contact": "Na kontaktoni",
+    "openMenu": "Hap menunë",
+    "closeMenu": "Mbyll menunë",
+    "language": "Gjuha"
+  },
+  "hero": {
+    "eyebrow": "Punonjës rezilientë. Organizata të fuqishme.",
+    "title": "Reziliencë dhe shëndet mendor për vende pune më të fuqishme",
+    "description": "Mind Nexus ofron konsulencë psikologjike të bazuar në evidencë, që i ndihmon organizatat të ndërtojnë ekipe reziliente, të zhvillojnë udhëheqës të guximshëm dhe të krijojnë kultura të shëndetshme pune, ku njerëzit zhvillohen dhe organizatat arrijnë rezultate të qendrueshme.",
+    "contact": "Na kontaktoni",
+    "services": "Shërbimet tona",
+    "discover": "Zbuloni më shumë"
+  },
+  "home": {
+    "about": {
+      "eyebrow": "Rreth nesh",
+      "title": "Rreth Mind Nexus",
+      "p1": "Mind Nexus ofron konsulencë psikologjike të bazuar në evidencë, që synon të forcojë reziliencën dhe shëndetin mendor në nivel individual, ekipor dhe organizativ, si dhe të mbështesë zhvillimin e kulturave të shëndetshme organizative.",
+      "p2": "Ne bashkëpunojmë me organizata për të hartuar dhe zbatuar programe psikologjike dhe organizative. Këto programe i ndihmojnë punonjësit të përballen me sfidat në vend të punës, të zhvillojnë potencialin e tyre dhe të përparojnë, ndërsa organizatat i mbështesin në krijimin e sistemeve më të shëndetshme, zhvillimin e udhëheqjes reziliente dhe mjediseve të punës me siguri psikologjike.",
+      "p3": "Në vend të pakove standarde të trajnimit, Mind Nexus zhvillon programe të bazuara në nevojat, prioritetet dhe kulturë të secilës organizatë. Qasja jonë ndërlidhë evidencën shkencore, ekspertizën profesionale dhe zgjidhjet praktike, për të krijuar ndikim domethënës dhe të qëndrueshëm."
+    },
+    "mission": {
+      "title": "Misioni ynë",
+      "text": "Të fuqizojmë individët dhe organizatat përmes qasjeve dhe shërbimeve psikologjike e organizative të bazuara në evidencë, të cilat forcojnë reziliencën, zhvillojnë udhëheqje të guximshme dhe kultivojnë vende pune të shëndetshme dhe me performancë të lartë."
+    },
+    "vision": {
+      "title": "Vizioni ynë",
+      "text": "Një e ardhme ku vendet e punës vendosin reziliencën, mirëqenien psikologjike dhe udhëheqjen e guximshme si vlera bazë për rritjen dhe zhvillimin e punonjësve dhe organizatave dhe arritjen e suksesit të qëndrueshëm."
+    },
+    "services": {
+      "eyebrow": "Shërbimet tona",
+      "title": "Shërbimet tona",
+      "subtitle": "Aty ku psikologjia takon vendin e punës",
+      "viewAll": "Shiko të gjitha shërbimet →",
+      "teasers": [
+        {
+          "icon": "◐",
+          "title": "Konsultim psikologjik, mbështetje profesionale dhe coaching",
+          "text": "Konsultime konfidenciale individuale dhe grupore, si dhe coaching profesional, që i mbështesin punonjësit në menaxhimin e sfidave të punës, përmirësimin e mirëqenies dhe rritjen e efektivitetit të tyre në punë."
+        },
+        {
+          "icon": "◇",
+          "title": "Zhvillimi i udhëheqjes dhe coaching",
+          "text": "Trajnime, konsultime dhe coaching të dedikuara udhëheqësve për menaxhim më të mire të presionit, komunikimin efektiv, marrjen e vendimeve të guximshme dhe udhëheqjen e ekipeve me qartësi dhe siguri."
+        },
+        {
+          "icon": "◎",
+          "title": "Vlerësim dhe konsulencë organizative",
+          "text": "Vlerësime dhe strategji të përshtatura që i ndihmojnë ekipet dhe organizatat të funksionojnë më mirë, të përmirësojnë performancën dhe të forcojnë reziliencën në të gjitha nivelet e organizatës."
+        },
+        {
+          "icon": "◈",
+          "title": "Ngritja e kapaciteteve dhe trajnime",
+          "text": "Punëtori interaktive dhe praktike, ligjërata dhe psikoedukim mbi stresin dhe burnout-in, reziliencën, sigurinë psikologjike, komunikimin dhe tema të tjera që lidhen me mirëqenien dhe funksionimin në vendin e punës."
+        },
+        {
+          "icon": "◍",
+          "title": "Hulumtim, monitorim dhe vlerësim",
+          "text": "Shërbime të hulumtimit dhe vlerësimit që sigurojnë të dhëna të besueshme, matin ndikimin dhe ndihmojnë organizatat të marrin vendime të argumentuara."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Ekipi ynë",
+      "title": "Ekspertiza prapa Mind Nexus",
+      "description": "Mind Nexus udhëhiqet nga themeluesja e saj, psikologe klinike e licencuar me mbi 20 vjet përvojë profesionale, dhe mbështetet nga një rrjet bashkëpunëtorësh me ekspertizë në psikologjinë klinike dhe organizative dhe jo vetëm. Në varësi prej nevojave të secilës organizatë, ne sjellim profesionistët e duhur për të ofruar mbështetje të duhur dhe të bazuar në evidencë.",
+      "meetTeam": "Njihuni me ekipin tonë →"
+    }
+  },
+  "closingCta": {
+    "eyebrow": "Kontakt",
+    "title": "Le të ndërtojmë së bashku punonjës rezilientë dhe organizata të fuqishme",
+    "p1": "Keni investuar në trajnime. Keni fuqizuar kapacitetet profesionale. Megjithatë, vazhdoni të ndieni se diçka nuk po funksionon siç duhet — për ju, ekipin ose organizatën tuaj!",
+    "p2": "Mind Nexus ju ndihmon të kuptoni se çfarë po e pengon zhvillimin e punonjësve dhe ekipeve tuaja dhe ju ndihmon të krijoni ndërhyrje të synuara aty ku ato mund të sjellin ndryshimin më të madh duke ngritur produktivitetin në punë.",
+    "contact": "Na kontaktoni",
+    "email": "Na shkruani"
+  },
+  "approach": {
+    "meta": {
+      "title": "Qasja jonë",
+      "description": "Organizata të ndryshme – zgjidhje të ndryshme! Mind Nexus fillon me një vlerësim fillestar, përpara se të rekomandojë hapat dhe ndërhyrjet e mëtejshme."
+    },
+    "eyebrow": "Qasja jonë",
+    "title": "Organizata të ndryshme – zgjidhje të ndryshme!",
+    "p1": "Rezilienca dhe zhvillimi i ekipeve dhe organizatave nuk mund të ndërtohen përmes qasjes: 'një recetë për të gjithë!\". Prandaj, Mind Nexus e fillon çdo bashkëpunim duke kuptuar kontekstin, burimet, sfidat, prioritetet dhe synimet e organizatës.",
+    "p2": "Çdo organizatë ka punonjës me profile të ndryshme, presionet e ndryshme, pikat e forta dhe dinamikat specifike të veta të punës. Për këtë arsye, Mind Nexus fillon me një vlerësim fillestar, përpara se të rekomandojë hapat dhe ndërhyrjet e mëtejshme.",
+    "p3": "Qasja jonë ndërlidhë ekspertizën psikologjike, njohjen e funksionimit organizativ dhe ndërhyrjet praktike, për t'u përqendruar në fushat ku mbështetja mund të sjellë ndryshimin më të madh.",
+    "principlesTitle": "Puna jonë udhëhiqet nga pesë parime themelore",
+    "scroll": "Lëviz",
+    "principles": {
+      "professionalism": "Profesionalizmi",
+      "evidence": "Evidenca shkencore",
+      "confidentiality": "Konfidencialiteti",
+      "ethics": "Praktika etike",
+      "impact": "Ndikimi i matshëm"
+    },
+    "steps": {
+      "step": "Hapi",
+      "01": {
+        "title": "Kuptojmë kontekstin",
+        "body": "Hulumtojmë kontekstin, pikat e forta, burimet, sfidat, prioritetet dhe synimet e organizatës. Në varësi prej llojit të angazhimit, kjo fazë mund të përfshijë konsultime, intervista, fokus-grupe, pyetësorë ose shqyrtim të materialene dhe informacioneve ekzistuese."
+      },
+      "02": {
+        "title": "Hartojmë programin",
+        "body": "Gjetjet i shndërrojmë në një program të dizajnuar sipas nevojave të identifikuara të organizatës. Brenda një programi të tillë mund të përfshihen vlerësimi, konsultimi, coaching/ mentorimi, trajnimi, zhvillimi i udhëheqjes ose forma të tjera të mbështetjes së synuar, në vend të përdorimit të një pakete të përgjithshme trajnimi."
+      },
+      "03": {
+        "title": "Zbatojmë programin",
+        "body": "Zbatojmë planin e përpiluar permes ndërhyrjeve praktike dhe të mbështetura në evidencë për punonjësit, ekipet dhe udhëheqësit. Gjatë zbatimit, në vazhdimësi kërkojmë reflektime nga punonjësit dhe I inkorporojmë sugjerimet duke I përshtatur me dinamikat aktuale të organizatës."
+      },
+      "04": {
+        "title": "Vlerësojmë dhe përmirësojmë",
+        "body": "Vlerësojmë rezultatet, mbledhim përshtypjet e pjesëmarrësve dhe identifikojmë ku mund të nevojitet vëmendje e mëtejshme. Këto të dhëna na ndihmojnë ta përshtatim ndërhyrjen dhe të mbështesim zhvillimin e qëndrueshëm."
+      }
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Shërbimet tona",
+      "description": "Aty ku psikologjia takon vendin e punës. Shërbimet tona e sjellin ekspertizën psikologjike në dinamikat e përditshme të punës."
+    },
+    "eyebrow": "Shërbimet tona",
+    "title": "Aty ku psikologjia takon vendin e punës",
+    "p1": "Shërbimet tona e sjellin ekspertizën psikologjike në dinamikat e përditshme të punës. Ne ofrojmë mbështetje të bazuar në evidencë dhe të përshtatur sipas nevojave të punonjësve, ekipeve dhe organizatave permes intervenimit tek mirëqenia individuale, permes fuqizimit të udhëheqësve në organizatë e deri te konsulenca organizative, trajnimet dhe hulumtimet.",
+    "p2": "Bazuar në vlerësimin fillestar dhe synimet e identifikuara, shërbimet mund të përfshijnë konsultime psikologjike, mbështetje për udhëheqësit, psikoedukim, punëtori ndërvepruese, sesione grupore të fasilituara, vlerësime psikosociale dhe të mirëqenies, si dhe udhëzime praktike për përballimin e sfidave, rikuperimin, përshtatjen dhe ruajtjen e performancës së qëndrueshme, etj.",
+    "serviceLabel": "Shërbimi",
+    "why": {
+      "eyebrow": "Pse Mind Nexus",
+      "title": "Pse Mind Nexus?",
+      "description": "Mind Nexus ndërlidhë ekspertizën psikologjike, njohjen e funksionimit organizativ dhe qasjen hulumtuese, për t'i kuptuar sfidat e vendit të punës nga këndvështrimet e ndryshme. Puna jonë e ndërlidhë mirëqenien individuale me dinamikat e ekipit, praktikat e udhëheqjes dhe kulturën organizative, duke ofruar mbështetje praktike që krijon ndryshim domethënës dhe afatgjatë.",
+      "items": [
+        "Mbështetur në psikologjinë klinike dhe praktikën e bazuar në evidencë",
+        "Ekspertizë në fushën e mirëqenies së punonjësve, udhëheqje dhe zhvillim organizativ",
+        "Përvojë pune me organizata, institucione dhe grupe të ndryshme profesionale",
+        "Mbështetje e integruar për individët, ekipet, udhëheqësit dhe sistemet organizative",
+        "Punë profesionale dhe konfidenciale, etike dhe e ndjeshme ndaj kontekstit të vendit të punës",
+        "Vlerësim i mbështetur në hulumtim dhe rezultate të matshme"
+      ]
+    },
+    "categories": {
+      "consultation": {
+        "title": "Konsultim psikologjik, mbështetje profesionale dhe coaching",
+        "intro": "Konsultime konfidenciale individuale dhe grupore, si dhe coaching profesional, që i mbështesin punonjësit në menaxhimin e sfidave të punës, përmirësimin e mirëqenies dhe rritjen e efektivitetit të tyre në punë.",
+        "items": []
+      },
+      "leadership": {
+        "title": "Zhvillimi i udhëheqjes dhe coaching",
+        "intro": "Trajnime, konsultime dhe coaching të dedikuara udhëheqësve për menaxhim më të mire të presionit, komunikimin efektiv, marrjen e vendimeve të guximshme dhe udhëheqjen e ekipeve me qartësi dhe siguri.",
+        "items": []
+      },
+      "organizational": {
+        "title": "Vlerësim dhe konsulencë organizative",
+        "intro": "Vlerësime dhe strategji të përshtatura që i ndihmojnë ekipet dhe organizatat të funksionojnë më mirë, të përmirësojnë performancën dhe të forcojnë reziliencën në të gjitha nivelet e organizatës.",
+        "items": []
+      },
+      "training": {
+        "title": "Ngritja e kapaciteteve dhe trajnime",
+        "intro": "Punëtori interaktive dhe praktike, ligjërata dhe psikoedukim mbi stresin dhe burnout-in, reziliencën, sigurinë psikologjike, komunikimin dhe tema të tjera që lidhen me mirëqenien dhe funksionimin në vendin e punës.",
+        "items": []
+      },
+      "research": {
+        "title": "Hulumtim, monitorim dhe vlerësim",
+        "intro": "Shërbime të hulumtimit dhe vlerësimit që sigurojnë të dhëna të besueshme, matin ndikimin dhe ndihmojnë organizatat të marrin vendime të argumentuara.",
+        "items": []
+      }
+    }
+  },
+  "team": {
+    "meta": {
+      "title": "Ekipi ynë",
+      "description": "Ekspertiza prapa Mind Nexus — e udhëhequr nga themeluesja Luljeta Berisha, psikologe klinike, këshilluese psikologjike dhe konsulente për shëndetin mendor dhe reziliencën në vendin e punës."
+    },
+    "eyebrow": "Ekipi ynë",
+    "title": "Ekspertiza prapa Mind Nexus",
+    "description": "Mind Nexus udhëhiqet nga themeluesja e tij, psikologe klinike e licencuar me mbi 20 vjet përvojë profesionale, dhe mbështetet nga një rrjet bashkëpunëtorësh me ekspertizë në psikologjinë klinike, organizative dhe fusha tjera relevante. Në varësi prej nevojave të secilës organizatë, ne angazhojmë profesionistët e duhur për të ofruar mbështetje adekuate.",
+    "founderName": "Luljeta Berisha",
+    "founderRole": "Themeluese dhe Drejtuese Ekzekutive e Mind Nexus",
+    "founderTitle": "Themeluese dhe Drejtuese Ekzekutive",
+    "founderCredentials": "Psikologe klinike · Këshilluese psikologjike · Konsulente për shëndetin mendor dhe reziliencën në vendin e punës",
+    "founderAlt": "Luljeta Berisha, Themeluese dhe Drejtuese Ekzekutive e Mind Nexus",
+    "bio": {
+      "p1": "Luljeta Berisha është psikologe klinike e licencuar me mbi njëzet vjet përvojë profesionale në këshillim psikologjik dhe shëndet mendor, mbështetje psikosociale, arsim, konsulencë organizative, ndërtim të reziliencës dhe zhvillim të kapaciteteve.",
+      "p2": "Gjatë karrierës së saj, ajo ka bashkëpunuar me organizata vendore dhe ndërkombëtare, universitete, institucione publike dhe ekipe multidisiplinare në vlerësimin e nevojave, hartimin dhe zbatimin e shërbimeve të shëndetit mendor, shërbimeve psikologjike dhe psikosociale, realizimin e trajnimeve profesionale dhe mbështetjen e zhvillimit organizativ përmes ndërhyrjeve të bazuara në evidencë.",
+      "p3": "Ekspertiza e saj profesionale përfshin këshillimin psikologjik dhe psikoterapinë, shëndetin mendor në vendin e punës, parandalimin e stresit dhe burnout-it, ndërtimin e reziliencës individuale dhe organizative, qasjen trauma-informuese, zhvillimin e programeve, realizimin e trajnimeve dhe mbështetjen organizative.",
+      "p4": "Aktualisht është kandidate e doktoraturës në Psikologji Zhvillimore, me fokus kërkimor në rregullimin emocional dhe shëndetin mendor te personat me aftësi të jashtëzakonshme intelektuale."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontakt",
+      "description": "Na kontaktoni për të diskutuar programe rezilience dhe shëndeti mendor për organizatën tuaj."
+    },
+    "eyebrow": "Kontakt",
+    "title": "Le të ndërtojmë së bashku punonjës rezilientë dhe organizata të fuqishme",
+    "description": "Mind Nexus beson se investimi në shëndetin mendor dhe reziliencë është një investim në njerëzit, stabilitetin organizativ dhe suksesin e qëndrueshëm.",
+    "direct": "Ose na kontaktoni direkt",
+    "form": {
+      "title": "Na dërgoni një mesazh",
+      "subtitle": "Na tregoni pak për organizatën tuaj dhe çfarë kërkoni. Do t'ju përgjigjemi direkt.",
+      "name": "Emri",
+      "email": "Email",
+      "organization": "Organizata",
+      "optional": "(opsionale)",
+      "message": "Si mund t'ju ndihmojmë?",
+      "submit": "Dërgo mesazhin",
+      "submitting": "Duke dërguar…",
+      "successTitle": "Faleminderit — mesazhi u dërgua.",
+      "successMessage": "Një anëtar i ekipit Mind Nexus do t'ju përgjigjet brenda një dite pune.",
+      "error": "Diçka shkoi keq. Ju lutemi provoni përsëri."
+    }
+  },
+  "testimonials": {
+    "meta": {
+      "title": "Dëshmitë",
+      "description": "Çfarë thonë organizatat për bashkëpunimin me Mind Nexus — së shpejti."
+    },
+    "eyebrow": "Dëshmitë",
+    "title": "Me fjalët e tyre",
+    "description": "Çfarë thonë organizatat dhe ekipet për bashkëpunimin me Mind Nexus.",
+    "comingSoon": "Po mbledhim dëshmi nga organizatat me të cilat kemi bashkëpunuar. Kthehuni së shpejti."
+  },
+  "blog": {
+    "meta": {
+      "title": "Pse e krijova Mind Nexus",
+      "description": "Historia pas Mind Nexus dhe misionit të saj për t'i ndihmuar njerëzit dhe organizatat të forcojnë reziliencën, të rivendosin ekuilibrin dhe të zhvillohen në punë."
+    },
+    "eyebrow": "Blog",
+    "title": "Pse e krijova Mind Nexus",
+    "paragraphs": [
+      "Gjatë rrugëtimit tim profesional, kam punuar në shumë institucione dhe organizata të ndryshme, duke qenë aty pjesë e ekipeve dhe dinamikave të shumta.",
+      "Me kalimin e viteve, fillova të vërej diçka që më mbeti vazhdimisht në mendje.",
+      "Në të njëjtin vend pune dhe në kushte të ngjashme, disa njerëz arrinin të zhvilloheshin dhe të përparonin pothuajse pa vështirësi, ndërsa të tjerë përballeshin me pengesa edhe në përmbushjen e kërkesave bazë të ditës apo të javës. Për disa, mjedisi i punës bëhej i vështirë për shkak të marrëdhënieve të tensionuara, pritshmërive të paqarta, mbështetjes së pamjaftueshme apo kushteve sfiduese të punës. Të tjerë ishin më të hapur ndaj parehatisë dhe ndryshimeve të shpejta, por shpesh, tepër kritikë ndaj vetes së tyre, punës dhe rezultateve të tyre.",
+      "Shihja njerëz që e përdornin stresin si shtysë. Shihja të tjerë që gradualisht fillonin të zhvillonin vështirësi në ballafaqim me stresin. Dikur fillova te shihja edhe se si, kur presioni vazhdonte pa mirëkuptimin dhe mbështetjen e duhur, profesionistë të aftë dhe të përkushtuar nisnin rrugën drejt rraskapitjes, shkëputjes nga puna dhe përkeqësimit të shëndetit mendor.",
+      "Këto përvoja më mësuan se mirëqenia në vendin e punës nuk mund të reduktohet vetëm në reziliencën individuale. Njerëzit nuk punojnë të izoluar. Aftësia e tyre për të performuar dhe për t’u zhvilluar ndikohet nga udhëheqja, marrëdhëniet, kushtet e punës, sistemet që i rrethojnë dhe përfundimisht - kultura organizative.",
+      "Ato gjithashtu e përforcuan një dëshirë që e kam prej kohësh: t’i mbështes njerëzit jo vetëm për t’i kapërcyer vështirësitë, por edhe për t’u bërë më të fortë, më të sigurt dhe më të përmbushur në jetën e tyre profesionale—dhe t’i ndihmoj organizatat të krijojnë kushtet që e bëjnë një gjë të tillë të mundur.",
+      "Kjo dëshirë, së bashku me përvojën time profesionale si psikologe, më shtyu drejt krijimit të Mind Nexus.",
+      "Prandaj, Mind Nexus ofron konsulencë psikologjike të mbështetur në evidencë, e cila ndihmon individët, ekipet, udhëheqësit dhe organizatat në forcimin e reziliencës, rivendosjen e ekuilibrit dhe përballimin e kërkesave të një bote dinamike që po ndryshon me shpejtësi. Ajo ndërthur qasjen psikologjike dhe organizative me shërbime të krijuara sipas nevojave aktuale të secilit mjedis pune.",
+      "Prandaj, sot, me krenari—por edhe me pak emocione—ju prezantoj Mind Nexus!",
+      "Ju ftoj të njiheni me ne dhe të zbuloni se si mund t’i mbështesim punonjësit tuaj, udhëheqjen dhe organizatën tuaj—jo vetëm për të ecur në hap me ndryshimet, por për t’u zhvilluar, per t’u avancuar dhe për të performuar më mire."
+    ],
+    "tagline": "Njerëz rezilientë. Organizata të forta."
+  },
+  "comingSoon": {
+    "title": "Së shpejti"
+  },
+  "ctaBanner": {
+    "title": "Gati për të ndërtuar një organizatë më reziliente?",
+    "subtitle": "Le të flasim për çfarë u nevojitet ekipeve tuaja.",
+    "button": "Na kontaktoni"
+  },
+  "footer": {
+    "tagline": "Punonjës rezilientë. Organizata të fuqishme. Shërbime psikologjike të bazuara në evidencë për vende pune më të shëndetshme dhe reziliente.",
+    "company": "Kompania",
+    "resources": "Burimet",
+    "ourServices": "Shërbimet tona",
+    "contact": "Kontakt",
+    "aboutUs": "Rreth nesh",
+    "terms": "Kushtet e shërbimit",
+    "madeBy": "Krijuar nga",
+    "serviceLinks": [
+      "Konsultim psikologjik, mbështetje profesionale dhe coaching",
+      "Zhvillimi i udhëheqjes dhe coaching",
+      "Vlerësim dhe konsulencë organizative",
+      "Ngritja e kapaciteteve dhe trajnime",
+      "Hulumtim, monitorim dhe vlerësim"
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Kushtet e shërbimit",
+      "description": "Kushtet e shërbimit që rregullojnë përdorimin tuaj të faqes së internetit Mind Nexus."
+    },
+    "eyebrow": "Ligjore",
+    "title": "Kushtet e shërbimit",
+    "description": "Përditësuar së fundmi: 2026. Ju lutemi lexoni me kujdes këto kushte përpara se të përdorni faqen e internetit Mind Nexus.",
+    "sections": [
+      {
+        "title": "1. Pranimi i kushteve",
+        "body": [
+          "Duke hyrë ose përdorur këtë faqe interneti, ju pranoni të jeni të lidhur me këto Kushte të Shërbimit. Nëse nuk jeni dakord me këto kushte, ju lutemi mos e përdorni faqen."
+        ]
+      },
+      {
+        "title": "2. Rreth kësaj faqeje",
+        "body": [
+          "Kjo faqe interneti ofron informacion të përgjithshëm rreth Mind Nexus, shërbimeve tona dhe qasjes sonë ndaj shëndetit mendor dhe reziliencës në vendin e punës. Asgjë në këtë faqe nuk përbën këshillë psikologjike, mjekësore ose ligjore, dhe përdorimi i faqes nuk krijon një marrëdhënie klienti, terapeutike ose konsulence me Mind Nexus."
+        ]
+      },
+      {
+        "title": "3. Jo për emergjenca",
+        "body": [
+          "Kjo faqe interneti nuk monitorohet për situata krize ose emergjence. Nëse ju ose dikush tjetër jeni në rrezik të menjëhershëm ose po përjetoni një krizë shëndetësore mendore, ju lutemi kontaktoni menjëherë shërbimet lokale të emergjencës ose një linjë ndihme për krizë, në vend që të përdorni këtë faqe ose formularin tonë të kontaktit."
+        ]
+      },
+      {
+        "title": "4. Përdorimi i faqes",
+        "body": [
+          "Ju pranoni ta përdorni këtë faqe interneti vetëm për qëllime të ligjshme dhe në një mënyrë që nuk cenon të drejtat e të tjerëve, ose nuk kufizon ose pengon përdorimin dhe kënaqësinë e kësaj faqeje nga kushdo tjetër. Ju nuk mund të përpiqeni të fitoni akses të paautorizuar në ndonjë pjesë të faqes, sistemeve të saj ose rrjeteve të lidhura."
+        ]
+      },
+      {
+        "title": "5. Pronësia intelektuale",
+        "body": [
+          "Përveç nëse thuhet ndryshe, teksti, grafikat, logot dhe përmbajtja tjetër në këtë faqe interneti janë pronë e Mind Nexus ose licencuesve të saj dhe mbrohen nga ligjet e aplikueshme të pronësisë intelektuale. Ju mund të shikoni dhe printoni faqe nga faqja për përdorim personal dhe jo-komercial, por nuk mund të riprodhoni, ripublikoni ose shpërndani përmbajtjen pa pëlqimin tonë paraprak me shkrim."
+        ]
+      },
+      {
+        "title": "6. Lidhje me palë të treta",
+        "body": [
+          "Kjo faqe mund të përmbajë lidhje me faqe interneti të palëve të treta, të ofruara për lehtësinë tuaj. Ne nuk i kontrollojmë dhe nuk jemi përgjegjës për përmbajtjen, praktikat e privatësisë ose disponueshmërinë e ndonjë faqeje të palës së tretë të lidhur."
+        ]
+      },
+      {
+        "title": "7. Mohimi i përgjegjësisë dhe kufizimi i saj",
+        "body": [
+          "Kjo faqe interneti dhe përmbajtja e saj ofrohen \"siç janë\" pa garanci të ndonjë lloji, të shprehura ose të nënkuptuara. Në masën maksimale të lejuar nga ligji, Mind Nexus mohon çdo përgjegjësi për çdo humbje ose dëmtim që lind nga përdorimi juaj, ose pamundësia për të përdorur, këtë faqe interneti."
+        ]
+      },
+      {
+        "title": "8. Ndryshimet në këto kushte",
+        "body": [
+          "Ne mund t'i përditësojmë këto Kushte të Shërbimit herë pas here. Ndryshimet hyjnë në fuqi sapo të publikohen në këtë faqe, dhe vazhdimi i përdorimit tuaj të faqes pas publikimit të ndryshimeve përbën pranimin e kushteve të përditësuara."
+        ]
+      },
+      {
+        "title": "9. Ligji i zbatueshëm",
+        "body": [
+          "Këto kushte rregullohen dhe interpretohen në përputhje me ligjin lokal të aplikueshëm, pa marrë parasysh parimet e konfliktit të ligjeve."
+        ]
+      },
+      {
+        "title": "10. Na kontaktoni",
+        "body": [
+          "Nëse keni ndonjë pyetje rreth këtyre Kushteve të Shërbimit, ju lutemi na kontaktoni në info@themindnexus.com."
+        ]
+      }
+    ]
+  },
+  "site": {
+    "title": "Mind Nexus — Reziliencë dhe shëndet mendor për vende pune më të fuqishme",
+    "description": "Mind Nexus ofron konsulencë psikologjike të bazuar në evidencë për forcimin e reziliencës dhe shëndetit mendor në nivel individual, ekipor dhe organizativ. Punonjës rezilientë. Organizata të fuqishme.",
+    "slogan": "Punonjës rezilientë. Organizata të fuqishme."
+  }
+}

@@ -1,0 +1,159 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-serif: var(--font-newsreader);
+  --font-sans: var(--font-karla);
+
+  --color-cream: #f9f4ee;
+  --color-card: #fffdfa;
+  --color-ink: #222121;
+  --color-rust: #852c14;
+  --color-rust-dark: #6b2310;
+  --color-muted: #5c5857;
+  --color-muted-2: #4a4746;
+  --color-muted-3: #857f7c;
+  --color-quote: #33302f;
+  --color-placeholder-bg: #f4ece2;
+  --color-placeholder-fg: #8a6a5c;
+  --color-dash: #b3aca7;
+}
+
+@layer base {
+  body {
+    background: var(--color-cream);
+    color: var(--color-ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background: var(--color-rust);
+    color: var(--color-cream);
+  }
+
+  a {
+    color: var(--color-rust);
+  }
+}
+
+/*
+ * Typography scale
+ * Single source of truth for content type. Sizes use clamp() so they scale
+ * fluidly between mobile and desktop. Apply these classes instead of hardcoding
+ * text-[..]/leading-[..]/tracking-[..]. Keep font-serif, color, weight, and
+ * spacing (margins) as regular utilities in the markup.
+ */
+@layer components {
+  .type-eyebrow {
+    font-size: 0.8125rem; /* 13px */
+    line-height: 1;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .type-meta {
+    font-size: 0.78rem; /* ~12.5px */
+    line-height: 1.5;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .type-display {
+    font-size: clamp(2.9rem, 6vw, 5.25rem); /* ~46 -> 84px */
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+  }
+
+  .type-h1 {
+    font-size: clamp(2.35rem, 4.5vw, 3.5rem); /* ~38 -> 56px */
+    line-height: 1.12;
+    letter-spacing: -0.02em;
+  }
+
+  .type-h2 {
+    font-size: clamp(2.1rem, 4vw, 3.6rem); /* ~34 -> 58px */
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .type-h3 {
+    font-size: clamp(1.7rem, 2.6vw, 2.35rem); /* ~27 -> 38px */
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+  }
+
+  .type-h4 {
+    font-size: 1.4rem; /* ~22px */
+    line-height: 1.25;
+  }
+
+  .type-lead {
+    font-size: clamp(1.15rem, 1.3vw, 1.3rem); /* ~18 -> 21px */
+    line-height: 1.8;
+  }
+
+  .type-body {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75;
+  }
+
+  .type-small {
+    font-size: 0.95rem; /* ~15px */
+    line-height: 1.65;
+  }
+}
+
+/* Scroll reveal */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(28px);
+    transition:
+      opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1),
+      transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Background network-node decoration */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes bg-decor-float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .bg-decor-float-a {
+    animation: bg-decor-float 12s ease-in-out infinite;
+  }
+
+  .bg-decor-float-b {
+    animation: bg-decor-float 15s ease-in-out infinite;
+  }
+
+  .bg-decor-float-c {
+    animation: bg-decor-float 18s ease-in-out infinite;
+  }
+
+  .bg-decor-float-mesh-1 {
+    animation: bg-decor-float 26s ease-in-out infinite;
+  }
+
+  .bg-decor-float-mesh-2 {
+    animation: bg-decor-float 21s ease-in-out infinite;
+    animation-delay: -6s;
+  }
+
+  .bg-decor-float-mesh-3 {
+    animation: bg-decor-float 17s ease-in-out infinite;
+    animation-delay: -3s;
+  }
+}

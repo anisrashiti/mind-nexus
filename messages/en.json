@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "home": "Home",
+    "ourApproach": "Our approach",
+    "ourServices": "Our services",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "meetTeam": "Meet our team",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "hero": {
+    "eyebrow": "Resilient people. Strong organizations.",
+    "title": "Resilience and Mental Health for Stronger Workplaces",
+    "description": "Mind Nexus is an evidence-based psychological consultancy helping organizations build resilient teams, courageous leaders, and healthy workplace cultures where people and performance thrive.",
+    "contact": "Get in touch",
+    "services": "Explore services",
+    "discover": "Look inside"
+  },
+  "home": {
+    "about": {
+      "eyebrow": "About us",
+      "title": "About Mind Nexus",
+      "p1": "Mind Nexus is an evidence-based psychological consultancy dedicated to strengthening resilience and mental health at individual, team, and organizational levels, and promoting healthy organizational cultures. We partner with organizations to design and deliver evidence-based psychological and organizational programs that help employees navigate challenges, develop their potential, and thrive — while helping organizations create healthier systems, resilient leadership, and psychologically safe workplaces.",
+      "p2": "Rather than offering standardized training packages, Mind Nexus develops tailored programs based on each organization's needs, priorities, and culture. Our approach combines scientific evidence, professional expertise, and practical solutions that create meaningful and sustainable impact."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To empower individuals and organizations through evidence-based psychological and organizational services that strengthen resilience, develop courageous leadership, and cultivate healthy, high-performing workplaces."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "A future where workplaces embrace resilience, psychological well-being, and courageous leadership as foundations for people to thrive and organizations to achieve sustainable success."
+    },
+    "services": {
+      "eyebrow": "Our services",
+      "title": "Our Services",
+      "subtitle": "Five ways we partner with organizations to build resilience and protect mental health.",
+      "viewAll": "View all services →",
+      "teasers": [
+        {
+          "icon": "◐",
+          "title": "Professional and Psychological Consultation and Coaching",
+          "text": "Confidential individual and group consultations and professional coaching that support employees in managing work challenges, improving their well-being and effectiveness at work."
+        },
+        {
+          "icon": "◇",
+          "title": "Leadership Development and Coaching",
+          "text": "Tailored training, consultation, and coaching that supports leaders navigate pressure, communicate effectively, make courageous decisions, and lead with clarity."
+        },
+        {
+          "icon": "◎",
+          "title": "Organizational Assessment and Consulting",
+          "text": "Assessments and strategies that increase performance and strengthen resilience across teams and systems."
+        },
+        {
+          "icon": "◈",
+          "title": "Capacity Building & Training",
+          "text": "Interactive hands-on workshops, lectures and psychoeducation on stress and burnout, resilience, psychological safety, communication, and other work-place topics."
+        },
+        {
+          "icon": "◍",
+          "title": "Research, Monitoring and Evaluation",
+          "text": "Research and evaluation services that generate reliable evidence, measure impact, and support informed decision-making."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Our team",
+      "title": "The Expertise Behind Mind Nexus",
+      "description": "Mind Nexus is led by its founder, a licensed clinical psychologist with more than 20 years of professional experience, and supported by a network of associate consultants with expertise in clinical and organizational psychology. Depending on each organization's needs, we bring together the right professionals to provide tailored, evidence-based support.",
+      "meetTeam": "Meet our team →"
+    }
+  },
+  "closingCta": {
+    "eyebrow": "Contact",
+    "title": "Let's Build Resilient People and Strong Organizations",
+    "p1": "You have invested in training. You have strengthened professional capacities. Yet it feels that something is not quite working — for you, your team, or your organization.",
+    "p2": "Mind Nexus will help you discover what is holding your people and teams back and develop targeted interventions where they can make the greatest difference!",
+    "contact": "Get in touch",
+    "email": "Email us"
+  },
+  "approach": {
+    "meta": {
+      "title": "Our Approach",
+      "description": "Different organizations - different solutions. Mind Nexus begins with an initial assessment before recommending what should be done, then designs, implements, and refines tailored, evidence-informed support."
+    },
+    "eyebrow": "Our approach",
+    "title": "Different organizations - different solutions!",
+    "p1": "Resilience and development in teams and organizations cannot be built through a one-size-fits-all approach. Mind Nexus begins every collaboration by understanding the organization's context, resources, challenges, priorities, and goals.",
+    "p2": "Every organization has its own people, pressures, strengths, and ways of working. That is why Mind Nexus begins by initial assessment before recommending what should be done further.",
+    "p3": "Our approach combines psychological expertise, organizational insight, and practical intervention to address the areas where support can make the greatest difference.",
+    "principlesTitle": "Our work is guided by five core principles",
+    "scroll": "Scroll",
+    "principles": {
+      "professionalism": "Professionalism",
+      "evidence": "Scientific evidence",
+      "confidentiality": "Confidentiality",
+      "ethics": "Ethical practice",
+      "impact": "Measurable impact"
+    },
+    "steps": {
+      "step": "Step",
+      "01": {
+        "title": "Understand",
+        "body": "We explore the organization's context, strengths, resources, challenges, priorities, and goals. Depending on the assignment, this may include consultations, interviews, focus groups, surveys, or a review of existing information."
+      },
+      "02": {
+        "title": "Design",
+        "body": "We translate the findings into a tailored response. The program may combine assessment, consultation, coaching, training, leadership development, or other targeted support—rather than relying on a generic training package."
+      },
+      "03": {
+        "title": "Implement",
+        "body": "We deliver practical, evidence-informed interventions for employees, teams, and leaders. Implementation remains responsive to feedback and to the realities of the organization."
+      },
+      "04": {
+        "title": "Measure & Refine",
+        "body": "We assess outcomes, gather feedback, and identify what is changing and where further attention may be needed. These insights help refine the response and support meaningful, sustainable improvement."
+      }
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Our Services",
+      "description": "Where psychology meets the workplace. Evidence-based support across professional and psychological consultation and coaching, leadership development and coaching, organizational assessment and consulting, capacity building & training, and research, monitoring and evaluation."
+    },
+    "eyebrow": "Our services",
+    "title": "Where Psychology Meets the Workplace",
+    "p1": "Our services bring psychological expertise into the realities of working life. From individual well-being and leadership development to organizational consulting, training, and research, we provide evidence-based support tailored to the needs of people, teams, and organizations.",
+    "p2": "Based on initial assessment and identified goals, services may include psychological counseling, leadership support, psychoeducation, interactive workshops, facilitated group sessions, psychosocial and well-being assessments, and practical tools for coping, recovery, adaptation, and sustainable performance.",
+    "serviceLabel": "Service",
+    "why": {
+      "eyebrow": "Why Mind Nexus",
+      "title": "Why Mind Nexus?",
+      "description": "Mind Nexus brings together psychological expertise, organizational insight, and research experience to understand workplace challenges from multiple perspectives. Our work connects individual well-being with team dynamics, leadership practices, and organizational culture, providing practical support that creates meaningful and lasting change.",
+      "items": [
+        "Grounded in clinical psychology and evidence-based practice",
+        "Expertise across employee well-being, leadership, and organizational development",
+        "Experience working with organizations, institutions, and diverse professional groups",
+        "Integrated support for individuals, teams, leaders, and workplace systems",
+        "Confidential, ethical, and context-sensitive professional practice",
+        "Research-informed assessment and measurable outcomes"
+      ]
+    },
+    "categories": {
+      "consultation": {
+        "title": "Professional and Psychological Consultation and Coaching",
+        "intro": "Confidential individual and group consultations and professional coaching that support employees in managing work challenges, improving their well-being and effectiveness at work.",
+        "items": [
+          "Professional and career-focused coaching",
+          "Confidential individual psychological consultations",
+          "Group consultations and facilitated support sessions",
+          "Stress management and burnout-prevention support",
+          "Support during workplace transitions and demanding periods",
+          "Personal resilience and professional development planning"
+        ]
+      },
+      "leadership": {
+        "title": "Leadership Development and Coaching",
+        "intro": "Tailored training, consultation, and coaching that supports leaders navigate pressure, communicate effectively, make courageous decisions, and lead with clarity.",
+        "items": [
+          "Individual coaching for leaders and managers",
+          "Leadership needs and strengths assessments",
+          "Courageous decision-making and confident leadership",
+          "Communication, feedback, and difficult conversations",
+          "Conflict management and constructive problem-solving",
+          "Building resilient, psychologically safe, and high-performing teams"
+        ]
+      },
+      "organizational": {
+        "title": "Organizational Assessment and Consulting",
+        "intro": "Assessments and strategies that increase performance and strengthen resilience across teams and systems.",
+        "items": [
+          "Organizational needs assessments",
+          "Psychosocial risk assessments",
+          "Employee well-being and workplace climate assessments",
+          "Team dynamics, communication, and role-clarity reviews",
+          "Interviews, focus groups, surveys, and stakeholder consultations",
+          "Evidence-based recommendations and organizational action plans"
+        ]
+      },
+      "training": {
+        "title": "Capacity Building & Training",
+        "intro": "Interactive hands-on workshops, lectures and psychoeducation on stress and burnout, resilience, psychological safety, communication, and other work-place topics.",
+        "items": [
+          "Resilience and sustainable stress-management training",
+          "Burnout awareness and prevention workshops",
+          "Psychological safety in the workplace",
+          "Workplace communication and conflict-management skills",
+          "Emotional intelligence and self-regulation at work",
+          "Tailored workshops and team development sessions"
+        ]
+      },
+      "research": {
+        "title": "Research, Monitoring and Evaluation",
+        "intro": "Research and evaluation services that generate reliable evidence, measure impact, and support informed decision-making.",
+        "items": [
+          "Organizational and program research",
+          "Baseline, midline, and endline assessments",
+          "Qualitative and quantitative data collection",
+          "Interviews, focus groups, surveys, and case studies",
+          "Monitoring frameworks and outcome measurement",
+          "Evaluation reports and evidence-based recommendations"
+        ]
+      }
+    }
+  },
+  "team": {
+    "meta": {
+      "title": "Meet Our Team",
+      "description": "The expertise behind Mind Nexus — led by founder Luljeta Berisha, Clinical Psychologist, Psychological Counsellor, and Workplace Mental Health & Resilience Consultant, supported by a network of associate consultants."
+    },
+    "eyebrow": "Our team",
+    "title": "The Expertise Behind Mind Nexus",
+    "description": "Mind Nexus is led by its founder, a licensed clinical psychologist with more than 20 years of professional experience, and supported by a network of associate consultants with expertise in clinical and organizational psychology. Depending on each organization's needs, we bring together the right professionals to provide tailored, evidence-based support.",
+    "founderName": "Luljeta Berisha",
+    "founderRole": "Founder & CEO of Mind Nexus",
+    "founderTitle": "Founder & CEO",
+    "founderCredentials": "Clinical Psychologist · Psychological Counsellor · Workplace Mental Health & Resilience Consultant",
+    "founderAlt": "Luljeta Berisha, Founder & CEO of Mind Nexus",
+    "bio": {
+      "p1": "Luljeta Berisha is a licensed clinical psychologist with more than twenty years of professional experience in psychological counseling and mental health, psychosocial support, education, organizational consulting, resilience building, and capacity development.",
+      "p2": "Throughout her career, she has collaborated with national and international organizations, universities, public institutions, and multidisciplinary teams to assess needs, design and implement mental health, psychological and psychosocial services, deliver professional training, and support organizational development through evidence-based interventions.",
+      "p3": "Her professional expertise includes psychological counseling and psychotherapy, workplace mental health, stress and burnout prevention, individual and organizational resilience building, trauma-informed practice, program development, training delivery, and organizational support.",
+      "p4": "She is currently a PhD Candidate in Developmental Psychology, with a research focus on emotion regulation and mental health outcomes in intellectually gifted populations."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Get in touch with Mind Nexus to talk about resilience and mental health programs for your organization."
+    },
+    "eyebrow": "Contact",
+    "title": "Let's Build Resilient People and Strong Organizations",
+    "description": "Mind Nexus believes that investing in mental health and resilience is an investment in people, organizational stability, and sustainable success. We work alongside organizations to strengthen employees' capacity to cope and thrive while improving the leadership, culture, and systems that enable people and organizations to adapt successfully.",
+    "direct": "Or reach us directly",
+    "form": {
+      "title": "Send us a message",
+      "subtitle": "Tell us a little about your organization and what you're looking for. We'll follow up directly.",
+      "name": "Name",
+      "email": "Email",
+      "organization": "Organization",
+      "optional": "(optional)",
+      "message": "How can we help?",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "successTitle": "Thank you — message sent.",
+      "successMessage": "A member of the Mind Nexus team will reply within one business day.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "testimonials": {
+    "meta": {
+      "title": "Testimonials",
+      "description": "What organizations say about working with Mind Nexus — coming soon."
+    },
+    "eyebrow": "Testimonials",
+    "title": "In their words",
+    "description": "What organizations and teams say about partnering with Mind Nexus.",
+    "comingSoon": "We're gathering testimonials from the organizations we've partnered with. Check back soon."
+  },
+  "blog": {
+    "meta": {
+      "title": "Why I Created Mind Nexus",
+      "description": "The story behind Mind Nexus and its mission to help people and organizations build resilience, restore balance, and thrive at work."
+    },
+    "eyebrow": "Blog",
+    "title": "Why I Created Mind Nexus",
+    "paragraphs": [
+      "Throughout my professional journey, I have worked within different institutions and organizations, alongside people from diverse backgrounds and as part of many different teams.",
+      "Over the years, I began to notice something that stayed with me.",
+      "In the same workplace, under seemingly similar conditions, some people appeared to thrive almost effortlessly, while others struggled to meet even the basic demands of the day or week. Some found the working environment difficult—because of strained relationships, unclear expectations, limited support, or challenging working conditions. Others were more open to discomfort and rapid change, yet often deeply critical of their own work and results.",
+      "I saw some people use stress as fuel. I saw others become gradually hindered by it. And I saw how, when pressure continued without adequate understanding or support, capable and committed professionals could begin moving towards exhaustion, disengagement, and deteriorating mental health.",
+      "These experiences taught me that workplace well-being cannot be reduced to individual resilience alone. People do not work in isolation. Their ability to perform and thrive is shaped by leadership, relationships, organizational culture, working conditions, and the systems around them.",
+      "They also strengthened a wish I had carried for some time: to support people not only in overcoming difficulties, but in becoming stronger, more confident, and more fulfilled in their working lives—and to help organizations create the conditions that make this possible.",
+      "That wish, together with my professional experience as a psychologist, led me to create Mind Nexus.",
+      "Mind Nexus offers evidence-based psychological consultancy that supports individuals, teams, leaders, and organizations in strengthening resilience, restoring balance, and navigating the demands of a rapidly changing world of work. It brings together psychological and organizational approach and services designed around the real needs of each workplace.",
+      "So, today, I am proud—and admittedly a little emotional—to introduce Mind Nexus.",
+      "I invite you to meet us and explore how we can support your people, your leadership, and your organization—not only to keep pace, but to develop, perform, and thrive."
+    ],
+    "tagline": "Resilient people. Strong organizations."
+  },
+  "comingSoon": {
+    "title": "Coming soon"
+  },
+  "ctaBanner": {
+    "title": "Ready to build a more resilient organization?",
+    "subtitle": "Let's talk about what your teams need.",
+    "button": "Get in touch"
+  },
+  "footer": {
+    "tagline": "Resilient people. Strong organizations. Evidence-based psychological services for healthier, more resilient workplaces.",
+    "company": "Company",
+    "resources": "Resources",
+    "ourServices": "Our services",
+    "contact": "Contact",
+    "aboutUs": "About us",
+    "terms": "Terms of Service",
+    "madeBy": "Made by",
+    "serviceLinks": [
+      "Professional and Psychological Consultation and Coaching",
+      "Leadership Development and Coaching",
+      "Organizational Assessment and Consulting",
+      "Capacity Building & Training",
+      "Research, Monitoring and Evaluation"
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Service",
+      "description": "Terms of Service governing your use of the Mind Nexus website."
+    },
+    "eyebrow": "Legal",
+    "title": "Terms of Service",
+    "description": "Last updated: 2026. Please read these terms carefully before using the Mind Nexus website.",
+    "sections": [
+      {
+        "title": "1. Acceptance of terms",
+        "body": [
+          "By accessing or using this website, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the site."
+        ]
+      },
+      {
+        "title": "2. About this website",
+        "body": [
+          "This website provides general information about Mind Nexus, our services, and our approach to workplace mental health and resilience. Nothing on this site constitutes psychological, medical, or legal advice, and using the site does not create a client, therapeutic, or consulting relationship with Mind Nexus."
+        ]
+      },
+      {
+        "title": "3. Not for emergencies",
+        "body": [
+          "This website is not monitored for crisis or emergency situations. If you or someone else is in immediate danger or experiencing a mental health crisis, please contact your local emergency services or a crisis helpline immediately rather than using this site or our contact form."
+        ]
+      },
+      {
+        "title": "4. Use of the site",
+        "body": [
+          "You agree to use this website only for lawful purposes and in a way that does not infringe the rights of, or restrict or inhibit the use and enjoyment of, this site by anyone else. You may not attempt to gain unauthorised access to any part of the site, its systems, or related networks."
+        ]
+      },
+      {
+        "title": "5. Intellectual property",
+        "body": [
+          "Unless otherwise stated, the text, graphics, logos, and other content on this website are the property of Mind Nexus or its licensors and are protected by applicable intellectual property laws. You may view and print pages from the site for personal, non-commercial use, but may not reproduce, republish, or distribute content without our prior written consent."
+        ]
+      },
+      {
+        "title": "6. Third-party links",
+        "body": [
+          "This site may contain links to third-party websites provided for your convenience. We do not control and are not responsible for the content, privacy practices, or availability of any linked third-party sites."
+        ]
+      },
+      {
+        "title": "7. Disclaimer and limitation of liability",
+        "body": [
+          "This website and its content are provided \"as is\" without warranties of any kind, express or implied. To the fullest extent permitted by law, Mind Nexus disclaims all liability for any loss or damage arising from your use of, or inability to use, this website."
+        ]
+      },
+      {
+        "title": "8. Changes to these terms",
+        "body": [
+          "We may update these Terms of Service from time to time. Changes take effect as soon as they are posted on this page, and your continued use of the site after changes are posted constitutes acceptance of the updated terms."
+        ]
+      },
+      {
+        "title": "9. Governing law",
+        "body": [
+          "These terms are governed by and construed in accordance with applicable local law, without regard to conflict of law principles."
+        ]
+      },
+      {
+        "title": "10. Contact us",
+        "body": [
+          "If you have any questions about these Terms of Service, please contact us at info@themindnexus.com."
+        ]
+      }
+    ]
+  },
+  "site": {
+    "title": "Mind Nexus — Resilience and Mental Health for Stronger Workplaces",
+    "description": "Mind Nexus is a psychological consulting company strengthening resilience and mental health at individual, team, and organizational levels. Resilient people. Strong organizations.",
+    "slogan": "Resilient people. Strong organizations."
+  }
+}
