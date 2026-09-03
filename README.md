@@ -9,8 +9,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-** ADD favicon.ico and icon.svg to app/ so the logo shows - use online tools to convert the png logo file to svg and ico.
-
 ## Contact form
 
 The Contact page includes a working contact form that sends an email via [Resend](https://resend.com). Copy `.env.example` to `.env.local` and fill in:
@@ -37,7 +35,8 @@ Without `RESEND_API_KEY` set, the form will show a friendly error asking visitor
   the sitemap route list, and the `pageMetadata()` helper each page uses for its title, canonical URL,
   and Open Graph / Twitter card.
 - `app/sitemap.ts` and `app/robots.ts` generate `/sitemap.xml` and `/robots.txt`.
-- `app/opengraph-image.tsx` renders the 1200×630 social card; `app/icon.svg` is the favicon.
+- `app/opengraph-image.tsx` renders the 1200×630 social card; `app/favicon.ico`,
+  `app/icon.png`, and `app/apple-icon.png` provide the site icons.
 - Structured data: Organization + WebSite in `app/layout.tsx`, `Service` list on `/services`,
   `Person` on `/team`.
 - `/testimonials` is `noindex` and excluded from the sitemap while it is a placeholder —

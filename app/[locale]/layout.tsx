@@ -121,7 +121,7 @@ export default async function LocaleLayout({
         "@id": `${SITE_URL}/#organization`,
         name: SITE_NAME,
         url: SITE_URL,
-        logo: `${SITE_URL}/logo.svg`,
+        logo: `${SITE_URL}/mindnexus_nobg.png`,
         image: `${SITE_URL}/opengraph-image`,
         description: t("description"),
         slogan: t("slogan"),
