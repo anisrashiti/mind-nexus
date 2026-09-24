@@ -6,7 +6,7 @@ import { routing } from "@/i18n/routing";
  * deployments, staging) so canonical URLs and the sitemap never point at prod.
  */
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
+  process.env.NEXT_PUBLIC_SITE_URL?.trim().replace(/\/$/, "") ||
   "https://themindnexus.com";
 
 export const SITE_NAME = "Mind Nexus";
