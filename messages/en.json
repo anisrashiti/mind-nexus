@@ -9,7 +9,8 @@
     "contact": "Contact",
     "openMenu": "Open menu",
     "closeMenu": "Close menu",
-    "language": "Language"
+    "language": "Language",
+    "linkedin": "Mind Nexus on LinkedIn"
   },
   "hero": {
     "eyebrow": "Resilient people. Strong organizations.",
@@ -225,6 +226,18 @@
       "p2": "Throughout her career, she has collaborated with national and international organizations, universities, public institutions, and multidisciplinary teams to assess needs, design and implement mental health, psychological and psychosocial services, deliver professional training, and support organizational development through evidence-based interventions.",
       "p3": "Her professional expertise includes psychological counseling and psychotherapy, workplace mental health, stress and burnout prevention, individual and organizational resilience building, trauma-informed practice, program development, training delivery, and organizational support.",
       "p4": "She is currently a PhD Candidate in Developmental Psychology, with a research focus on emotion regulation and mental health outcomes in intellectually gifted populations."
+    },
+    "xhevahire": {
+      "name": "Xhevahire Balaj Mataj",
+      "role": "Clinical Psychology Specialist",
+      "title": "Clinical Psychology Specialist · Trauma Therapist · Supervisor · Trainer and Consultant",
+      "alt": "Xhevahire Balaj Mataj, Clinical Psychology Specialist",
+      "bio": {
+        "p1": "Xhevahire Balaj Mataj is a specialist in clinical psychology, a trauma therapist, and a supervisor in clinical psychology and psychotherapy, with over 20 years of professional experience in mental health, psychosocial support, and resilience building.",
+        "p2": "She completed her Bachelor's and Master's studies in Clinical Psychology at the University of Prishtina and specialized in trauma therapy at the Center for Traumatology and Trauma Therapy in Lower Saxony, Germany. For nine years, she led the Psychosocial Center for Trauma Therapy in Mitrovica within Diakonie Kosova, combining clinical work with professional leadership and team support.",
+        "p3": "Her work with professionals and teams includes individual and group psychological support, supervision, and training in stress management, self-care, and coping with emotional demands. In this work, she places emphasis on reflection on professional practice, maintaining boundaries, and strengthening a supportive culture within teams.",
+        "p4": "At Mind Nexus, her work focuses on training and supporting staff across different workplaces, with the aim of improving psychological well-being, strengthening resilience, and supporting professional development. Through training sessions and workshops on communication, collaboration, stress and emotion management, conflict resolution, and other topics that connect psychology with everyday work, she supports the development of practical skills and the creation of a healthy, supportive work environment."
+      }
     }
   },
   "contact": {

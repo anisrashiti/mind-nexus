@@ -9,7 +9,8 @@
     "contact": "Na kontaktoni",
     "openMenu": "Hap menunë",
     "closeMenu": "Mbyll menunë",
-    "language": "Gjuha"
+    "language": "Gjuha",
+    "linkedin": "Mind Nexus në LinkedIn"
   },
   "hero": {
     "eyebrow": "Punonjës rezilientë. Organizata të fuqishme.",
@@ -191,6 +192,18 @@
       "p2": "Gjatë karrierës së saj, ajo ka bashkëpunuar me organizata vendore dhe ndërkombëtare, universitete, institucione publike dhe ekipe multidisiplinare në vlerësimin e nevojave, hartimin dhe zbatimin e shërbimeve të shëndetit mendor, shërbimeve psikologjike dhe psikosociale, realizimin e trajnimeve profesionale dhe mbështetjen e zhvillimit organizativ përmes ndërhyrjeve të bazuara në evidencë.",
       "p3": "Ekspertiza e saj profesionale përfshin këshillimin psikologjik dhe psikoterapinë, shëndetin mendor në vendin e punës, parandalimin e stresit dhe burnout-it, ndërtimin e reziliencës individuale dhe organizative, qasjen trauma-informuese, zhvillimin e programeve, realizimin e trajnimeve dhe mbështetjen organizative.",
       "p4": "Aktualisht është kandidate e doktoraturës në Psikologji Zhvillimore, me fokus kërkimor në rregullimin emocional dhe shëndetin mendor te personat me aftësi të jashtëzakonshme intelektuale."
+    },
+    "xhevahire": {
+      "name": "Xhevahire Balaj Mataj",
+      "role": "Specialiste e psikologjisë klinike",
+      "title": "Specialiste e psikologjisë klinike · Traumaterapiste · Supervizore · Trajnere dhe konsulente",
+      "alt": "Xhevahire Balaj Mataj, specialiste e psikologjisë klinike",
+      "bio": {
+        "p1": "Xhevahire Balaj Mataj është specialiste e psikologjisë klinike, traumaterapiste dhe supervizore e psikologjisë klinike dhe psikoterapisë, me mbi 20 vite përvojë profesionale në shëndetin mendor, mbështetjen psikosociale dhe ndërtimin e reziliencës.",
+        "p2": "Ka përfunduar studimet Bachelor dhe Master në Psikologji Klinike në Universitetin e Prishtinës dhe është specializuar në traumaterapi në Qendrën për Traumatologji dhe Traumaterapi në Niedersachsen, Gjermani. Për nëntë vite ka udhëhequr Qendrën Psikosociale për Traumaterapi në Mitrovicë, në kuadër të Diakonie Kosova, duke ndërthurur punën klinike me drejtimin profesional dhe mbështetjen e ekipeve.",
+        "p3": "Puna e saj me profesionistë dhe ekipe përfshin mbështetjen psikologjike individuale dhe grupore, supervizionin dhe trajnimet për menaxhimin e stresit, vetëkujdesin dhe përballimin e ngarkesës emocionale. Në këtë punë, ajo i kushton rëndësi reflektimit mbi praktikën profesionale, ruajtjes së kufijve dhe forcimit të një kulture mbështetëse brenda ekipeve.",
+        "p4": "Në kuadër të Mind Nexus, angazhimi i saj përqendrohet në trajnimin dhe mbështetjen e stafit në vende të ndryshme pune, me synim përmirësimin e mirëqenies psikologjike, forcimin e reziliencës dhe zhvillimin profesional. Përmes trajnimeve dhe punëtorive mbi komunikimin, bashkëpunimin, menaxhimin e stresit dhe emocioneve, zgjidhjen e konflikteve dhe tema të tjera që ndërlidhin psikologjinë me punën e përditshme, ajo mbështet zhvillimin e aftësive praktike dhe krijimin e një mjedisi pune të shëndetshëm e mbështetës."
+      }
     }
   },
   "contact": {

@@ -46,9 +46,30 @@ export default async function TeamPage({ params }: Props) {
     ],
   };
 
+  const xhevahireSchema = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": `${SITE_URL}/${locale}/team#xhevahire-balaj-mataj`,
+    name: t("xhevahire.name"),
+    jobTitle: t("xhevahire.title"),
+    url: `${SITE_URL}/${locale}/team#xhevahire-balaj-mataj`,
+    image: `${SITE_URL}/images/xhevahire-balaj-mataj.jpg`,
+    worksFor: { "@id": `${SITE_URL}/#organization` },
+    description: t("xhevahire.bio.p1"),
+    knowsAbout: [
+      "Clinical psychology",
+      "Trauma therapy",
+      "Clinical supervision",
+      "Workplace psychological well-being",
+      "Resilience building",
+      "Professional development",
+    ],
+  };
+
   return (
     <div className="text-ink">
       <JsonLd data={founderSchema} />
+      <JsonLd data={xhevahireSchema} />
       <Nav />
       <section className="px-6 pb-[60px] pt-20 sm:px-12">
         <PageHeader
@@ -87,6 +108,37 @@ export default async function TeamPage({ params }: Props) {
               <p>{t("bio.p2")}</p>
               <p>{t("bio.p3")}</p>
               <p>{t("bio.p4")}</p>
+            </div>
+          </div>
+        </div>
+
+        <div
+          id="xhevahire-balaj-mataj"
+          className="mx-auto mt-20 flex max-w-[1180px] flex-col items-center gap-14 border-t border-ink/[0.08] pt-20 sm:flex-row sm:items-start"
+        >
+          <div className="w-full max-w-[380px] shrink-0 sm:sticky sm:top-28">
+            <CircularPortrait
+              src="/images/xhevahire-balaj-mataj.jpg"
+              alt={t("xhevahire.alt")}
+              className="max-w-[380px]"
+            />
+            <h2 className="mt-8 text-center font-serif type-h4 font-medium text-black">
+              {t("xhevahire.name")}
+            </h2>
+            <p className="mt-1 text-center type-small text-muted-2">
+              {t("xhevahire.role")}
+            </p>
+          </div>
+
+          <div className="flex flex-col items-center gap-8 text-center">
+            <p className="max-w-[56ch] type-small font-medium text-rust">
+              {t("xhevahire.title")}
+            </p>
+            <div className="flex max-w-[71ch] flex-col gap-6 type-body text-muted">
+              <p>{t("xhevahire.bio.p1")}</p>
+              <p>{t("xhevahire.bio.p2")}</p>
+              <p>{t("xhevahire.bio.p3")}</p>
+              <p>{t("xhevahire.bio.p4")}</p>
             </div>
           </div>
         </div>

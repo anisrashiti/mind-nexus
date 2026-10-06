@@ -14,6 +14,26 @@ const LINKS = [
   { href: "/blog" as const, labelKey: "blog" as const },
 ];
 
+function LinkedInLink({ onClick }: { onClick?: () => void }) {
+  const t = useTranslations("nav");
+
+  return (
+    <a
+      href="https://www.linkedin.com/company/the-mind-nexus/"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label={t("linkedin")}
+      onClick={onClick}
+      className="flex h-10 w-10 shrink-0 items-center justify-center text-muted-2 no-underline hover:text-rust hover:no-underline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rust"
+    >
+      {/* The installed lucide-react has no LinkedIn export; reuse the site's brand mark. */}
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false" className="h-[18px] w-[18px]">
+        <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05a3.74 3.74 0 0 1 3.37-1.85c3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z" />
+      </svg>
+    </a>
+  );
+}
+
 export default function Nav() {
   const t = useTranslations("nav");
   const locale = useLocale();
@@ -55,6 +75,7 @@ export default function Nav() {
           </div>
 
           <div className="ml-auto hidden shrink-0 items-center gap-[10px] md:flex">
+            <LinkedInLink />
             <div className="flex items-center gap-1 rounded-full border border-ink/[0.15] p-[3px] text-[13px]">
               {routing.locales.map((l) => (
                 <Link
@@ -149,6 +170,7 @@ export default function Nav() {
             })}
 
             <div className="flex items-center gap-2">
+              <LinkedInLink onClick={() => setOpen(false)} />
               {routing.locales.map((l) => (
                 <Link
                   key={l}
